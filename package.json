@@ -1,6 +1,6 @@
 {
   "name": "balance-dsh",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "查询 DeepSeek 余额并显示当前会话 token 消耗。DeepSeek 账户余额 + 会话 token/费用显示，含高峰/空闲峰谷计费。",
   "author": "Rannist",
   "type": "module",
