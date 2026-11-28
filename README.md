@@ -1,4 +1,4 @@
-# balance-dsh
+<img width="553" height="369" alt="image" src="https://github.com/user-attachments/assets/3617654a-a43c-4537-b644-db7feeff584e" /># balance-dsh
 
 DeepSeek Harness 插件：在 Web UI 中直接显示 DeepSeek 账户余额和当前会话 token / 金额消耗。
 
@@ -8,6 +8,7 @@ DeepSeek Harness 插件：在 Web UI 中直接显示 DeepSeek 账户余额和当
 最新版本见 [npm](https://www.npmjs.com/package/balance-dsh)；装好之后也可以在插件设置卡片里直接检查并更新。
 
 ## 功能
+<img width="553" height="369" alt="image" src="https://github.com/user-attachments/assets/edacde6d-f5aa-4b71-ae58-18f9a9f1f035" />
 
 ### 侧边栏余额行
 
