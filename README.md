@@ -8,7 +8,8 @@ DeepSeek Harness 插件：在 Web UI 中直接显示 DeepSeek 账户余额和当
 最新版本见 [npm](https://www.npmjs.com/package/balance-dsh)；装好之后也可以在插件设置卡片里直接检查并更新。
 
 ## 功能
-<img width="302" height="74" alt="image" src="https://github.com/user-attachments/assets/cd08f321-0ea1-43b3-ae21-66f8c56f563e" /><img width="501" height="395" alt="image" src="https://github.com/user-attachments/assets/e4959d14-4628-4c6b-9c9f-b1af9a307090" />
+<img width="501" height="395" alt="image" src="https://github.com/user-attachments/assets/e4959d14-4628-4c6b-9c9f-b1af9a307090" />
+<img width="302" height="74" alt="image" src="https://github.com/user-attachments/assets/cd08f321-0ea1-43b3-ae21-66f8c56f563e" />
 
 
 
